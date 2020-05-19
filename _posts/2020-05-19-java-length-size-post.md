@@ -9,9 +9,12 @@ categories: java Array List Size length
  - length는 배열의 길이를 알고자 할때 사용된다.
  - length는 array의 field값이다(그래서 뒤에 ()가 안붙는다)
  - arrays(int[] , double[] , String[]) 는 배열의 길이를 알고자할때 사용한다
- - ex)
+ ```
+   ex)
         String[] strarr = {"one", "two"};
         int num3 = strarr.length;
+ ```
+	
 		
 		
 2. length()
