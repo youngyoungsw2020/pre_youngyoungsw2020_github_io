@@ -43,7 +43,7 @@ categories: java Array List Size length
 참고사이트 
 [JAVA]자바_ length / length() / size() 사용법 및 차이
 https://mine-it-record.tistory.com/126
-{% post_url https://mine-it-record.tistory.com/126 %}
+`https://mine-it-record.tistory.com/126`
 
 JAVA -size()와 length() 그리고 length의 차이
 https://chibychi.blogspot.com/2019/01/java-size-length-length.html
