@@ -1,6 +1,6 @@
 ---
 title: "java에서는 길이를 구할 때 왜 length와 size를 혼합하여 사용할까?"
-date: 2017-10-20 08:26:28 -0400
+date: 2020-05-19 16:48:28 -0400
 categories: jekyll update
 ---
 
