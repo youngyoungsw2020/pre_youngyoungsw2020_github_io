@@ -39,15 +39,11 @@ categories: java Array List Size length
         int num = testArr.size();
  ```
 
-```
-참고사이트 
-[JAVA]자바_ length / length() / size() 사용법 및 차이
-https://mine-it-record.tistory.com/126
-`https://mine-it-record.tistory.com/126`
-<https://theorydb.github.io>
 
-JAVA -size()와 length() 그리고 length의 차이
-https://chibychi.blogspot.com/2019/01/java-size-length-length.html
-```
+__참고사이트__
+1. [JAVA]자바_ length / length() / size() 사용법 및 차이
+   https://mine-it-record.tistory.com/126
+2. JAVA -size()와 length() 그리고 length의 차이
+   https://chibychi.blogspot.com/2019/01/java-size-length-length.html
 
 
