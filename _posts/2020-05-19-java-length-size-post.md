@@ -16,8 +16,9 @@ categories: jekyll update
 
 3. size()
  - Collection Object(ArrayList, Set etc)
-
  - size()는 컬렉션프레임워크 타입의 길이를 알고자 할때 사용된다.
+ - java.util.ArrayList는 Collection 타입을 상속받아 사용하기 때문에 길이값을 구할 때 size() 함수를 사용한다.
+
 
 참고사이트 
 https://mine-it-record.tistory.com/126 [JAVA] 자바_ length / length() / size() 사용법 및 차이
