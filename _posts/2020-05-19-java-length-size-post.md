@@ -46,11 +46,6 @@ length()는 java.lang.String의 메소드이며 char[]의 얇은 래퍼입니다
         int num = testArr.size();
  ```
 
-
-<font color='red'>와</font>
-<font color='#fe9f9f'>하하하</font>
-
-
 __참고사이트__
 1. [JAVA]자바_ length / length() / size() 사용법 및 차이  
    <https://mine-it-record.tistory.com/126>
