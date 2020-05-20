@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "개발자 정승원님의 기술블로그"
+title                    : "버블's 기술블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "youngyoungsw2020"
-description              : "개발자 정승원님의 기술블로그"
+description              : "버블's 기술블로그"
 url                      : "https://youngyoungsw2020.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -62,7 +62,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : 개발자 정승원님의 기술블로그 # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : 버블's 기술블로그 # YOUR_SEARCH_ENGINE_ID
   instant_search         : true # false (default), true
 # SEO Related
 google_site_verification :
@@ -95,9 +95,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "개발자 정승원님의 기술블로그입니다"
+  name             : "정승원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자 정승원님의 **기술블로그**입니다 ㅎㅎ"
+  bio              : "***버블's*** 기술블로그"
   location         : "Somewhere"
   email            :
   links:
