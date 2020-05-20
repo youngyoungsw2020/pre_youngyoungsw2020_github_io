@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "안녕하세요 ㅎㅎ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "문득 ***왜?*** 라는 생각이 들떄 찾아본 내용을 정리하기 위한 기술블로그 입니다"
+  bio              : "소소한 개발지식들을 정리하기 위한 ***기술블로그*** 입니다"
   location         : "Somewhere"
   email            :
   links:
