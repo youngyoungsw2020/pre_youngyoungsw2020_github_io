@@ -18,12 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+#이전 description 내용
+#description:
+#Write an awesome description for your new site here. You can edit this
+#line in _config.yml. It will appear in your document head meta (for
+#Google search results) and in your feed.xml site description.
+  
+  
 title: 버블's 기술블로그
 email: youngyoungsw2020@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
   안녕하세요
   소소한 개발지식들을 게시하기 위해 만든 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
