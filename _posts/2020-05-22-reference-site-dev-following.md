@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## 최신 IT 트렌드를 파악하고 싶을 때 참고할만한 사이트를 정리함.
