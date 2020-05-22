@@ -1,10 +1,5 @@
 ---
-published: true
----
-
----
 title: "github 블로그 쉽게 관리하기(Prose.io 활용)"
-date: 
 categories: 참고사이트
 ---
 
