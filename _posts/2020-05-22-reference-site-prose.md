@@ -3,7 +3,6 @@ published: true
 ---
 ---
 title: "github 블로그 쉽게 관리하기(Prose.io 활용)"
-date: 2020-05-22
 categories: 참고사이트
 ---
 
