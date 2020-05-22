@@ -1,10 +1,5 @@
 ---
-published: true
----
-
----
 title: "최신 IT 트렌드를 파악하고 싶을 때 참고할만한 사이트"
-date: 
 categories: 참고사이트
 ---
 
