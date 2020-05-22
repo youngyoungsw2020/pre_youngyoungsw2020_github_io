@@ -1,6 +1,12 @@
 ---
 published: false
 ---
+---
+title: "github 블로그 쉽게 관리하기(Prose.io 활용)"
+date: 
+categories: 참고사이트
+---
+
 ## github 블로그 쉽게 관리하기(Prose.io 활용)
 
 _post 폴더아래 블로그글을 .md 양식에 맞게 작성해야 하는데  
@@ -15,4 +21,3 @@ prose 사이트를 이용하면 정말 쉽게 글을 작성할 수 있다.
 __참고사이트__
 1. Prose.io 연동으로 포스팅을 쉽게! 배포는 더 쉽게!
 	<https://theorydb.github.io/envops/2019/05/04/envops-blog-posting-prose-io/>
-    
