@@ -8,7 +8,3 @@ github를 이용하여 블로그 만들기
 
 참고사이트
 https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
