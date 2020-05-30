@@ -1,13 +1,12 @@
 ---
 title: "왜 DBMS에 있는 외래키(Foreign Key)를 사용하지 않는걸까?"
 date: 2020-05-20 14:02:28 -0400
-categories: [DBMS, Database, ForeignKey]
-tags: [DBMS, Database, ForeignKey]
+categories: [DBMS, Database, ForeignKey, 왜래키 사용안하는 이유]
+tags: [DBMS, Database, ForeignKey, 왜래키 사용안하는 이유]
+layout: page
 date: 2020-05-20 14:20:00
 ---
   
-<h1>왜 DBMS에 있는 외래키(Foreign Key)를 사용하지 않는걸까?</h1>
-
 ```
 Reasons not to use foreign keys.
 Don't let the team leader use the foreign keys.
@@ -16,9 +15,9 @@ Don't let the team leader use the foreign keys.
 처음 회사에 입사 후 개발을 처음 시작할당시(코린이 시절) 테이블을 생성해야 하는 업무가 있었는데 개발팀 팀장님이 외래키를 만들지 말라고 하셨다.  
 당시에는 개발에관한 지식이 전무하였기에 당연히 그대로 진행하였지만, 추후 여러 프로젝트를 진행하면서 실제로 외래키가 사용되는곳은 보지 못하였고 문득 외래키가 사용되지 않는 이유가 궁금해졌다.
 
-<h2> 그렇다면 왜 외래키를 사용하지 않는걸까? </h2>
+<h1> 그렇다면 왜 외래키를 사용하지 않는걸까? </h1>
 
-<h3><font color='blue'>Foreign Key를 사용하지 않을때의 문제</font></h3>
+<h2><font color='blue'>Foreign Key를 사용하지 않을때의 문제</font></h2>
   - <font color='red'> a. 잠재적인 데이터 무결성 문제 </font>
     *  외래 키가 없으면 데이터베이스가 참조 무결성을 강화할 수 없으며, 상위 수준에서 올바르게 관리하지 않으면 데이터가 일치하지 않을 수 있습니다(해당 부모 행이없는 자식 행)
     
@@ -70,7 +69,7 @@ having  count(*) > 1
     (개발기간이 끝나고 단위테스트 및 통합테스트 진행시 필요에 의하여 추가되는경우가 종종 있습니다)  
     때로는 DBA나 아키텍쳐로 일하시는 분들이 놓치기도 합니다.
 
-<h3>결론</h3>
+<h4>결론</h4>
 외래키(Foreign Key)를 사용하지 않을때의 장단점을 고려하여 외래키를 사용하지 않는 이유를 생각해보면
 
 외래키를 사용하지 않을 때 
