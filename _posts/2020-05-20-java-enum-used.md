@@ -11,14 +11,14 @@ date: 2020-11-19 09:30:28
 Why use Java Enum class?
 ```
 
-Java에서 Enum 은 java 1.5 부터 지왼된 클래스이다.
+Java에서 Enum 은 java 1.5 부터 지원된 클래스이다.
 
-한참 프로젝트를 진행하는중 Enum 클래스를 사용한 파일을 보게되었다.
+프로젝트를 소스 분석 중 Enum 클래스를 사용한 파일을 보게되었다.
 소스를 확인해보니 기존에 상수를 선언하는 방식과는 약간 다르게 선언되어 있음을 알수있었다.
 
 결국에는 상수로써 사용하는건데 왜 Enum 클래스를 사용하는걸까?
 
-일단 기존에 내가 알고있는 상수관리를 하는 클래스는 보통 이렇게 작성되어있다.
+평소에 내가 프로젝트를 진행하며 보던 상수관리를 하는 클래스는 보통 이렇게 작성되어있다.
 
 ```
 public class CommonConstant {
@@ -41,8 +41,8 @@ public class CommonConstant {
 }
 ```
 
-
-조금 더 객체지향적으로 상수를 사용할 수 있으며 가시성이 뛰어나다!!
+아래는 Enum 클래스 예제이다.
+Enum 클래스 사용시 조금 더 객체지향적으로 상수를 사용할 수 있으며 가시성이 뛰어나다!!
 
 ```
 public class ApiCommonConstant {
@@ -110,7 +110,7 @@ public class test1 {
 ```
 
 
-<img src="https://youngyoungsw2020.github.io/myImages/enum-capture.png" width="750" height="200">
+<img src="https://youngyoungsw2020.github.io/myImages/enum-capture.png" width="350" height="200">
 
 --- 
 
