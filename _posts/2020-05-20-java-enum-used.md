@@ -110,7 +110,7 @@ public class test1 {
 ```
 
 
-
+<img src="https://youngyoungsw2020.github.io/myImages/enum-capture.png" width="750" height="200">
 
 --- 
 
