@@ -20,7 +20,8 @@ Java에서 Enum 은 java 1.5 부터 지원된 클래스이다.
 
 평소에 내가 프로젝트를 진행하며 보던 상수관리를 하는 클래스는 보통 이렇게 작성되어있다.
 
-```
+
+<pre><code>
 public class CommonConstant {
 	
 	/**
@@ -39,7 +40,7 @@ public class CommonConstant {
 	public final static String COMMON_TEXI_CODE = "333301";
 	
 }
-```
+</code></pre>
 
 아래는 Enum 클래스 예제이다.
 Enum 클래스 사용시 조금 더 객체지향적으로 상수를 사용할 수 있으며 가시성이 뛰어나다!!
